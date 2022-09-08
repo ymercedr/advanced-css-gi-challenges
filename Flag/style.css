@@ -1,5 +1,5 @@
 table {
-  margin: 3px;
+  margin: 9px;
   width: 1200px;
 }
 
@@ -17,8 +17,8 @@ table {
 
 img {
   position: absolute;
-  top: 1%;
-  left: 1.3%;
+  top: 1.2%;
+  left: 1%;
   width: 500px;
   height: 376px;
 }
