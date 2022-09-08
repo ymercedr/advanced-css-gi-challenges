@@ -1,0 +1,18 @@
+.board-container {
+  width: 803px;
+  border: solid;
+  border-width: 3px;
+  border-color: black;
+}
+
+.black-square {
+  background-color: black;
+  width: 100px;
+  height: 100px;
+}
+
+.white-square {
+  background-color: white;
+  width: 100px;
+  height: 100px;
+}

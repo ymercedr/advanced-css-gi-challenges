@@ -1,0 +1,39 @@
+table {
+  width: 100%;
+}
+
+.star {
+  background-color: white;
+  width: 10%;
+  height: 100px;
+}
+
+.blue {
+  background-color: blue;
+  width: 10%;
+  height: 100px;
+}
+
+.red-short {
+  background-color: red;
+  width: 70%;
+  height: 100px;
+}
+
+.white-short {
+  background-color: white;
+  width: 50%;
+  height: 100px;
+}
+
+.red-long {
+  background-color: red;
+  width: 100%;
+  height: 100px;
+}
+
+.white-long {
+  background-color: white;
+  width: 100px;
+  height: 100px;
+}
